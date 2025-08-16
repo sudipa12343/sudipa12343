@@ -71,4 +71,4 @@ _A simple public complaint platform for efficient reporting_
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/sudipa12343/sudipa12343/main/dist/snake.svg)
+![Snake animation](./dist/snake.svg)
