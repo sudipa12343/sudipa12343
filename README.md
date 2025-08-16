@@ -9,7 +9,7 @@ I love solving problems creatively and writing clean, maintainable code.
 ## 🧑‍💻 About Me
 - 🎓 Student majoring in **Software Engineering (PPLG)**  
 - 💻 Focused on **modern web development** and exploring **Web3 technologies**  
-- 🌱 Currently improving my skills in **React.js** and **Next.js**  
+- 🌱 Currently improving my skills in **React.js** and **Laravel**  
 - 🏆 2nd Place — *LKS IT Software Solutions for Business (Badung)*  
 - 📫 Reach me at: **[dipayasa14@gmail.com](mailto:dipayasa14@gmail.com)**  
 
@@ -66,3 +66,10 @@ _A simple public complaint platform for efficient reporting_
   <a href="https://www.linkedin.com/in/i-putu-sudipa-yasa-60642b335/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dipayasa14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sudipa12343/sudipa12343/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/sudipa12343/sudipa12343/blob/output/github-contribution-grid-snake-dark.svg)
