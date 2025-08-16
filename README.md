@@ -1,6 +1,6 @@
 # Hi there 👋, I'm I Putu Sudipa Yasa  
 
-🚀 **Software Engineering Student | Full-Stack Web Developer Enthusiast**  
+🚀 **IT Student | Full-Stack Web Developer Enthusiast**  
 Passionate about building modern, responsive, and user-friendly web applications using the latest technologies.  
 I love solving problems creatively and writing clean, maintainable code.  
 
