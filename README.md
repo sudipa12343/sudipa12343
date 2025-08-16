@@ -37,20 +37,6 @@ I love solving problems creatively and writing clean, maintainable code.
 
 ---
 
-## 📌 Featured Projects  
-
-### 🔹 HydroWash  
-_A modern and responsive laundry management application_  
-**Tech stack:** Laravel · Tailwind CSS · MySQL  
-👉 Designed to streamline service tracking, order management, and status updates.  
-
-### 🔹 LaporYukk  
-_A simple public complaint platform for efficient reporting_  
-**Tech stack:** PHP · Bootstrap · MySQL  
-👉 Helps communities submit and manage reports quickly and effectively.  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
