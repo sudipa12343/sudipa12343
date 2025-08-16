@@ -9,7 +9,7 @@ I love solving problems creatively and writing clean, maintainable code.
 ## 🧑‍💻 About Me
 - 🎓 Student majoring in **Software Engineering (PPLG)**  
 - 💻 Focused on **modern web development** and exploring **Web3 technologies**  
-- 🌱 Currently improving my skills in **React.js** and **Laravel**  
+- 🌱 Currently improving my skills in **React.js** and learning **Next.js**. 
 - 🏆 2nd Place — *LKS IT Software Solutions for Business (Badung)*  
 - 📫 Reach me at: **[dipayasa14@gmail.com](mailto:dipayasa14@gmail.com)**  
 
