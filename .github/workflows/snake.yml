@@ -2,12 +2,14 @@ name: Generate Snake (simple)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # jalan tiap hari
-  workflow_dispatch:       # bisa run manual
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write 
 
     steps:
       - name: Checkout repo
