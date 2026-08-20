@@ -1,9 +1,7 @@
-# 🚀 Hello, I'm Sudipa!
 
 <div align="center">
 
-### Frontend Developer | React Enthusiast | Continuous Learner
-
+![Profile Header](img/github-header-banner.png)
 ![Profile Views](https://komarev.com/ghpvc/?username=sudipa12343&color=blue)
 
 </div>
