@@ -43,15 +43,24 @@ I am a young developer passionate about building responsive and user-friendly we
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=sudipa12343&show-icons=true&theme=tokyonight&count_private=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=sudipa12343&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sudipa12343&show-icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=sudipa12343&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudipa12343&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="100%">
+      <img width="100%" style="width: 100%; display: block;" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sudipa12343&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
